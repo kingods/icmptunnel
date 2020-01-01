@@ -30,7 +30,7 @@
 #include <stdint.h>
 
 /* magic value used to mark icmp tunnel packets. */
-#define PACKET_MAGIC "TUNL"
+#define PACKET_MAGIC "#q$;A&&//"
 
 enum PACKET_TYPE
 {
